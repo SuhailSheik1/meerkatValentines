@@ -1,0 +1,32 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background: url('background.jpg') no-repeat center center/cover;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    color: #4B0082;
+    overflow: hidden;
+  }
+  
+  .yes-container {
+    max-width: 600px;
+    padding: 20px;
+    background: rgba(230, 230, 250, 0.9);
+    border-radius: 10px;
+    box-shadow: 0px 4px 10px rgba(75, 0, 130, 0.3);
+  }
+  
+  h1 {
+    font-size: 3rem;
+    margin-bottom: 20px;
+    color: #8A2BE2;
+  }
+  
+  p {
+    font-size: 1.5rem;
+  }
+  
